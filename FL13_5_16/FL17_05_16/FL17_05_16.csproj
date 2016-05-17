@@ -9,12 +9,12 @@
     <ProductVersion>
     </ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{4A434F80-5FB9-42F4-B104-1A9676CB59DB}</ProjectGuid>
+    <ProjectGuid>{2181C7B6-ECB9-4F41-A550-E90507E6E401}</ProjectGuid>
     <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Exercise1</RootNamespace>
-    <AssemblyName>Exercise1</AssemblyName>
+    <RootNamespace>FL17_05_16</RootNamespace>
+    <AssemblyName>FL17_05_16</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <UseIISExpress>true</UseIISExpress>
     <IISExpressSSLPort />
@@ -98,10 +98,6 @@
     <Content Include="ApplicationInsights.config">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
-    <Content Include="video\MrBean.webm" />
-    <Content Include="video\Maldive3.ogv" />
-    <Content Include="video\Maldive3.webm" />
-    <Content Include="video\MrBean.ogv" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -110,22 +106,11 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="audio\NeonHeart-EndlessGrace.mp3" />
-    <Content Include="pages\htmlElements.html" />
-    <Content Include="images\Camera.PNG" />
-    <Content Include="images\Jappic.PNG" />
-    <Content Include="images\Objective.PNG" />
-    <Content Include="images\photo1.PNG" />
-    <Content Include="images\photo2.PNG" />
-    <Content Include="images\photo3.PNG" />
+    <Content Include="images\live-dealer.jpg" />
     <Content Include="index.html" />
+    <Content Include="styles\myStyle.css" />
     <Content Include="scripts\ai.0.22.9-build00167.js" />
     <Content Include="scripts\ai.0.22.9-build00167.min.js" />
-    <Content Include="pages\sound.html" />
-    <Content Include="pages\soundplayer.html" />
-    <Content Include="pages\video.html" />
-    <Content Include="video\Maldive3.mp4" />
-    <Content Include="video\MrBean.mp4" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -145,9 +130,9 @@
         <WebProjectProperties>
           <UseIIS>True</UseIIS>
           <AutoAssignPort>True</AutoAssignPort>
-          <DevelopmentServerPort>9569</DevelopmentServerPort>
+          <DevelopmentServerPort>20721</DevelopmentServerPort>
           <DevelopmentServerVPath>/</DevelopmentServerVPath>
-          <IISUrl>http://localhost:9569/</IISUrl>
+          <IISUrl>http://localhost:20721/</IISUrl>
           <NTLMAuthentication>False</NTLMAuthentication>
           <UseCustomServer>False</UseCustomServer>
           <CustomServerUrl>

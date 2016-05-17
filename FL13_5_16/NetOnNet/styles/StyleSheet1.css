@@ -1,0 +1,23 @@
+﻿body {
+    background-color:grey;
+}
+#wrapper{
+    margin:auto;
+    margin:0px auto 0px 0px;
+}
+#navigationbar{
+    float:left;
+    padding:5px;
+}
+#headerimage{
+    height:330px;
+    width:1071px;
+}
+#sectionsize{
+    width:1075px;
+    float:left;
+}
+
+footer{
+    clear:both;
+}
