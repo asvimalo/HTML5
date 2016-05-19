@@ -98,6 +98,8 @@
     <Content Include="ApplicationInsights.config">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
+    <Content Include="pages\order.html" />
+    <Content Include="pages\recipe.html" />
     <Content Include="video\MrBean.webm" />
     <Content Include="video\Maldive3.ogv" />
     <Content Include="video\Maldive3.webm" />
